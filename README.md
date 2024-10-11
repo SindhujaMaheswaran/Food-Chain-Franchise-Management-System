@@ -13,4 +13,7 @@ Azure Data Studio
 
 ![image alt](https://github.com/SindhujaMaheswaran/Food-Chain-Franchise-Management-System/blob/a6133985e5e02f34e1040dbb6b239b53cc32e611/Logical%20Data%20Model.png)
 
+# Conceptual Model
+![image alt](https://github.com/SindhujaMaheswaran/Food-Chain-Franchise-Management-System/blob/dda21ed832d2da115bc906daec45a127df4d084d/Conceptual%20Data%20Model.png)
+
 
