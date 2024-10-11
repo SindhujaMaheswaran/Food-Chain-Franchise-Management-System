@@ -9,3 +9,6 @@ You can examine the dataset with SQL and help the store understand its business 
 
 Azure Data Studio
 
+# Schema - Food Chain Franchise Managment
+
+
