@@ -11,4 +11,6 @@ Azure Data Studio
 
 # Schema - Food Chain Franchise Managment
 
+![image alt](https://github.com/SindhujaMaheswaran/Food-Chain-Franchise-Management-System/blob/a6133985e5e02f34e1040dbb6b239b53cc32e611/Logical%20Data%20Model.png)
+
 
